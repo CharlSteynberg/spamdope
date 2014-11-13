@@ -17,7 +17,9 @@ The data is compressed _tar.gz_ SQL, for import into a _mySQL_ database and is i
 ##Configuration
 If you already have the spamdope database, then just _ignore_ the _spamdope.tar.gz_ file for quicker clone, or pull.
 Change the _cfg/database.json_ details to your own database details.
-Change the supplied image and CSS to suite you needs, the point is to have it look like a "normal" site to fool the _spam bots_ to make it _harder_ for the _spam bot_ programmer to identify the given information as "fake".
+The supplied data is from various sources that freely supply information of current _unsolicited email sending domains_, which is used in the leading brands like "spamassassin", etc. -- but please note that the data supplied here should be used for testing, but if you plan to be more effective, update your own data from a reliable source at regular intervals - at least once a month.
+
+Change the supplied image and CSS to your needs. The point is to have it look like a "normal" site to fool the _spam bots_ to make it _harder_ for the _spam bot_ programmer to identify the given information as "fake".
 Also, please note that making larger lists of data served increases chances of being identified as "fake" data, so try to keep it as close to a "real" site as possible, where usually you will not find thousands of names and email- addresses on one page.  Refer to the wiki for more info ;)
 
 
