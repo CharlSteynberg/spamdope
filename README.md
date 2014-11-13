@@ -1,9 +1,9 @@
-#spamdope
+#sp@md0pe
 Fighting back against spam
 
 
 ##Info
-Spamdope is inspired by [spampoison](www.spampoison.com) and identifies a _bad crawler_, then keeps on serving useless data for any further requests made to the same server - regardless of the request method, or url -- only after it is identified as a _spam bot_.
+SpamDope is inspired by [spampoison](www.spampoison.com) and identifies a _bad crawler_, then keeps on serving useless data for any further requests made to the same server - regardless of the request method, or url -- only after it is identified as a _spam bot_.
 This specific edition is PHP based so the information below will assume you are using popular software stacks associated.
 Please visit the [spamdope wiki](https://github.com/CharlSteynberg/spamdope/wiki) for more information on the methodology.
 
