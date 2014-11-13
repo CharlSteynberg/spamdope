@@ -26,5 +26,5 @@ Also, please note that making larger lists of data served increases chances of b
 ##Thank You
 By using this you are contributing to fight back against spam, by feeding spammers with "believable" fake information that points to _eccessive spam rated_ and _black listed_ domain names, effectively giving them the chance to spam each other and rendering large portions of their data useless. This results in _fake lead_ generation and discourages bulk advertising organizations to buy _leads_ from useless data sources.
 
-Please feel free to modify the code, suggest changes, etc...
-`reminds me of the inspiration one bum-cheek gave the other: "together we can stop this sh!t"`
+Please feel free to modify the code, suggest changes, etc.
+~~~
