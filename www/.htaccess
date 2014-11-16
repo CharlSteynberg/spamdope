@@ -1,0 +1,12 @@
+
+Options All -Indexes
+ServerSignature Off
+AddDefaultCharset UTF-8
+DefaultLanguage en-US
+
+RewriteEngine on
+
+RewriteCond %{SCRIPT_FILENAME} !index.php
+RewriteRule . index.php
+
+php_value auto_prepend_file lib/server.php

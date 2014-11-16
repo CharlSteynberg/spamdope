@@ -1,0 +1,288 @@
+
+   .scroll
+   {
+      overflow:auto;
+   }
+
+   .important
+   {
+      font-size:1em;
+      line-height:1em;
+      position:absolute;
+      opacity:0;
+      top:-5em;
+   }
+
+   .layer
+   {
+      position:absolute;
+      display:block;
+      z-index:1;
+   }
+
+   .overlay
+   {
+      display:block;
+      position:absolute;
+      width:100%;
+      height:100%;
+      z-index:99999;
+   }
+
+   .stretch
+   {
+      width:100%;
+      height:100%;
+   }
+
+   .limit-min-size
+   {
+      min-width:320px;
+      min-height:320px;
+   }
+
+   .badass-bdr
+   {
+      border:1px solid #BADA55;
+   }
+
+   .badass-bg
+   {
+      background:#BADA55;
+   }
+
+   .tbl
+   {
+      display:table;
+   }
+
+   .row
+   {
+      width:100%
+      display:table-row;
+   }
+
+   .col
+   {
+      display:table-cell;
+   }
+
+   .h-span-10
+   {
+      width:10%;
+      float:left;
+   }
+
+   .h-span-20
+   {
+      width:20%;
+      float:left;
+   }
+
+   .h-span-30
+   {
+      width:30%;
+      float:left;
+   }
+
+   .h-span-40
+   {
+      width:40%;
+      float:left;
+   }
+
+   .h-span-50
+   {
+      width:50%;
+      float:left;
+   }
+
+   .h-span-60
+   {
+      width:60%;
+      float:left;
+   }
+
+   .h-span-70
+   {
+      width:70%;
+      float:left;
+   }
+
+   .h-span-80
+   {
+      width:80%;
+      float:left;
+   }
+
+   .h-span-90
+   {
+      width:90%;
+      float:left;
+   }
+
+   .h-span-100
+   {
+      width:100%;
+      float:left;
+   }
+
+   .v-span-10
+   {
+      height:10%;
+      float:left;
+   }
+
+   .v-span-15
+   {
+      height:15%;
+      float:left;
+   }
+
+   .v-span-20
+   {
+      height:20%;
+      float:left;
+   }
+
+   .v-span-30
+   {
+      height:30%;
+      float:left;
+   }
+
+   .v-span-40
+   {
+      height:40%;
+      float:left;
+   }
+
+   .v-span-50
+   {
+      height:50%;
+      float:left;
+   }
+
+   .v-span-60
+   {
+      height:60%;
+      float:left;
+   }
+
+   .v-span-70
+   {
+      height:70%;
+      float:left;
+   }
+
+   .v-span-80
+   {
+      height:10%;
+      float:left;
+   }
+
+   .v-span-90
+   {
+      height:90%;
+      float:left;
+   }
+
+   .v-span-100
+   {
+      height:100%;
+      float:left;
+   }
+
+   .btn
+   {
+      display:inline-block;
+      width:6em;
+      font-family:bolds;
+      font-size:1.5em;
+      color:#aaaaaa;
+      background:#2d2f31;
+      padding:.3em;
+      cursor:pointer;
+      margin-left:.5em;
+   }
+
+   .btn:hover
+   {
+      background:#3d4146;
+   }
+
+   .line
+   {
+      border-top:1px solid #2d2f31;
+   }
+
+   .float-left
+   {
+      display:inline;
+      float:left;
+   }
+
+   .float-right
+   {
+      display:inline;
+      float:right;
+   }
+
+   .color-error
+   {
+      color:#A00;
+   }
+
+   .notice-error
+   {
+      display:block;
+      padding:.2em;
+      border:.2em solid #A00;
+      border-radius:7px;
+      background:rgba(200,0,0,0.1);
+   }
+
+   .wid-1
+   {
+      width:1em;
+   }
+
+   .hgt-1
+   {
+      height:1em;
+   }
+
+   .pad-05
+   {
+      padding:.5em;
+   }
+
+   .pad-1
+   {
+      padding:1em;
+   }
+
+   .mrg-05
+   {
+      margin:.5em;
+   }
+
+   .mrg-1
+   {
+      margin:1em;
+   }
+
+   .click
+   {
+      cursor:pointer;
+   }
+
+   .bg-white
+   {
+      background:#eee;
+   }
+
+   .bg-dark
+   {
+      background:#1d1f21;
+   }

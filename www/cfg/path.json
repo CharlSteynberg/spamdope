@@ -1,0 +1,6 @@
+{
+	"reRoute" : {
+						"/"				: "doc/home.php",
+						"/robots.txt"	: "cfg/robots.txt"
+					}
+}
